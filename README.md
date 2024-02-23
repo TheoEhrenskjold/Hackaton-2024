@@ -1,0 +1,1 @@
+This was my and first Hackathon. The subject was to improve one of our schools websites. We noticed that we often use 3-4 different websites more often than others. With that information we decided to build one main hub for all the information needed. 
